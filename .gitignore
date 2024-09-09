@@ -1,1 +1,10 @@
 compresor.py
+Saved_Pictures_Originals/
+.gitignore
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.jpg_large
+SistersArt.avif
+Compressed_Photos/
