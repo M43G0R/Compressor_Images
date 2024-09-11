@@ -6,5 +6,12 @@ Saved_Pictures_Originals/
 *.jpeg
 *.gif
 *.jpg_large
+*.ico
+*.svg
+*.webp
+*.avif
+*.tiff
+*.bmp
 SistersArt.avif
 Compressed_Photos/
+*.pyc
