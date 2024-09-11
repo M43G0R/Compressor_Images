@@ -6,6 +6,6 @@
       ".dll", ".py", ".java", ".cpp", ".h", ".md", ".gif", ".svg"
     ],
     "commonImageExtensions": [
-      ".jpg", ".jpeg", ".png", ".bmp", ".ico", ".webp"
+      ".jpg", ".jpeg", ".png", ".bmp", ".ico", ".webp", ".jpg_large"
     ]
 }
