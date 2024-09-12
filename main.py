@@ -1,4 +1,4 @@
-from compress import compress
+from compress import compress_parallel
 
 if __name__ == "__main__":
-    compress()
+    compress_parallel()
